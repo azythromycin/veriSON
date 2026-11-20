@@ -1,0 +1,12 @@
+{"simulation_time_s":1.0,"received_mbps":2.24,"frames_fed":29,"rejected_udp_sends":0}
+{"simulation_time_s":2.0,"received_mbps":2.31,"frames_fed":59,"rejected_udp_sends":0}
+{"simulation_time_s":3.0,"received_mbps":2.27,"frames_fed":89,"rejected_udp_sends":0}
+{"simulation_time_s":4.0,"received_mbps":2.39,"frames_fed":119,"rejected_udp_sends":0}
+{"simulation_time_s":5.0,"received_mbps":2.24,"frames_fed":148,"rejected_udp_sends":0}
+{"simulation_time_s":6.0,"received_mbps":2.33,"frames_fed":178,"rejected_udp_sends":0}
+{"simulation_time_s":7.0,"received_mbps":2.31,"frames_fed":208,"rejected_udp_sends":0}
+{"simulation_time_s":8.0,"received_mbps":2.32,"frames_fed":238,"rejected_udp_sends":0}
+{"simulation_time_s":9.0,"received_mbps":2.25,"frames_fed":267,"rejected_udp_sends":0}
+{"simulation_time_s":10.0,"received_mbps":2.31,"frames_fed":297,"rejected_udp_sends":0}
+{"simulation_time_s":11.0,"received_mbps":2.24,"frames_fed":326,"rejected_udp_sends":0}
+{"simulation_time_s":12.0,"received_mbps":2.41,"frames_fed":357,"rejected_udp_sends":0}
